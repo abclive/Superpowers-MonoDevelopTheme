@@ -1,0 +1,59 @@
+/* iris theme for codemirror */
+/* by abclive                */
+
+/* Color scheme */
+
+.cm-s-iris.CodeMirror {
+  background-color:#ffffff;
+  color:#1C2225;
+  line-height:1.4375;
+  font-family: "DejaVu Sans Mono";
+}
+.cm-s-iris .cm-comment {color:#68737B}
+.cm-s-iris .cm-keyword {color:#009695}
+.cm-s-iris .cm-property {color: #3364A4;}
+.cm-s-iris .cm-atom,.cm-s-iris .cm-number {color:#F57D00}
+.cm-s-iris .cm-node,.cm-s-iris .cm-tag {color:#9c3328}
+.cm-s-iris .cm-string {color:#F57D00}
+.cm-s-iris .cm-variable,.cm-s-iris .cm-qualifier {color:#1C2225}
+
+
+/* Editor styling */
+
+.cm-s-iris pre {
+  padding:0;
+}
+
+.cm-s-iris .CodeMirror-gutters {
+  border:none;
+  border-right:10px solid transparent;
+  background-color:transparent;
+}
+
+.cm-s-iris .CodeMirror-linenumber {
+  padding:0;
+  color:#e0e2e5;
+}
+
+.cm-s-iris .CodeMirror-guttermarker { color: #1d75b3; }
+.cm-s-iris .CodeMirror-guttermarker-subtle { color: #e0e2e5; }
+
+.cm-s-iris div.CodeMirror-cursor {
+  width: auto;
+  border: 0;
+  background: rgba(155,157,162,0.37);
+  z-index: 1;
+}
+
+.cm-s-iris .CodeMirror-selected { background: #CCE2F7; }
+.cm-s-iris.CodeMirror ::selection { background: rgba(7, 54, 66, 0.99); }
+.cm-s-iris.CodeMirror ::-moz-selection { background: rgba(7, 54, 66, 0.99); }
+
+.cm-s-iris .CodeMirror-matchingbracket { color:#1C2225 !important; border-bottom: 1px solid #9C9C9C; }
+
+.cm-s-iris .cm-error,
+.cm-s-iris .cm-invalidchar,
+.line-error {
+  color: #C12634 !important;
+  background-color: none;
+}
