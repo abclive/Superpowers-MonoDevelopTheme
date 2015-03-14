@@ -3,7 +3,7 @@ A MonoDevelop default theme port
 
 ![Preview](http://puu.sh/gzPUN/51e6c7eded.png)
 
-Notice: Please note that currently the theme is only working on your server, you will not see it elsewhere.
+Notice: Please note that currently the theme is only working on your server, you will not see it elsewhere. You will also need the ["DejaVu Sans Mono" font](http://dejavu-fonts.org/wiki/Download)
 
 ### Installation
 
