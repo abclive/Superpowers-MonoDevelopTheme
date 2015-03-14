@@ -3,6 +3,8 @@ A MonoDevelop default theme port
 
 ![Preview](http://puu.sh/gzPUN/51e6c7eded.png)
 
+Notice: Please note that currently the theme is only working on your server, you will not see it elsewhere.
+
 ### Installation
 
 Go to the SuperPowers TypeScript editor plugin folder
