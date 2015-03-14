@@ -55,5 +55,5 @@
 .cm-s-iris .cm-invalidchar,
 .line-error {
   color: #C12634 !important;
-  background-color: none;
+  background-color: white;
 }
