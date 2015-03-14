@@ -1,4 +1,4 @@
-# SuperPowers-MonoDevelopTheme
+# Superpowers-MonoDevelopTheme
 A MonoDevelop default theme port
 
 ![Preview](http://puu.sh/gzPUN/51e6c7eded.png)
